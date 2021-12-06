@@ -2,6 +2,7 @@
 
 깃 설치 여부를 확인하고, 해당 창을 금일 시간이 보이게 캡쳐하여 첨부하세요. (해당 라인은 지워주세요)
 
+![캡처](https://user-images.githubusercontent.com/92082963/144797067-8d1fa00e-6061-4aa7-9a0b-7f70aa58e6d8.PNG)
 
 2. github repository
 레파지토리 주소: http://example.com/
