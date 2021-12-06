@@ -5,7 +5,7 @@
 ![캡처](https://user-images.githubusercontent.com/92082963/144797067-8d1fa00e-6061-4aa7-9a0b-7f70aa58e6d8.PNG)
 
 2. github repository
-레파지토리 주소: http://example.com/
+레파지토리 주소: https://github.com/mangooo2/project1206
 
 3. git 사용해본 소감
 
